@@ -1,0 +1,17 @@
+{
+  "name": "pcha-plugins",
+  "owner": {
+    "name": "Pablo Cha",
+    "email": "pablo.cha@pcha.dev"
+  },
+  "plugins": [
+    {
+      "name": "android-claude-plugin",
+      "source": {
+        "source": "github",
+        "repo": "pcha/android-claude-plugin"
+      },
+      "description": "Skills and commands for Android development with clean architecture, ViewModels, data layer, DI, and testing."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "git-ai-plugin",
+  "displayName": "Git Workflows",
+  "version": "0.1.0",
+  "description": "Safe Git workflows for conventional commits, pull requests, branch integration, and worktrees.",
+  "author": {
+    "name": "Pablo Cha",
+    "email": "pablo.cha@pcha.dev"
+  },
+  "repository": "https://github.com/pcha/plugins-marketplace",
+  "homepage": "https://github.com/pcha/plugins-marketplace/tree/main/plugins/git-ai-plugin",
+  "license": "MIT",
+  "keywords": [
+    "git",
+    "conventional-commits",
+    "pull-requests",
+    "rebase",
+    "worktrees"
+  ],
+  "skills": "./skills/",
+  "commands": "./commands/"
+}

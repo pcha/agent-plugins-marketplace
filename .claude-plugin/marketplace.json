@@ -4,6 +4,7 @@
     "name": "Pablo Cha",
     "email": "pablo.cha@pcha.dev"
   },
+  "description": "Developer workflow plugins for Claude Code and Codex.",
   "plugins": [
     {
       "name": "android-ai-plugin",
@@ -12,6 +13,12 @@
         "repo": "pcha/android-ai-plugin"
       },
       "description": "Skills and commands for Android development with clean architecture, ViewModels, data layer, DI, and testing."
+    },
+    {
+      "name": "git-ai-plugin",
+      "source": "./plugins/git-ai-plugin",
+      "description": "Safe Git workflows for conventional commits, pull requests, branch integration, and worktrees.",
+      "category": "Developer Tools"
     }
   ]
 }

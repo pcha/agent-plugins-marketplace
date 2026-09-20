@@ -6,10 +6,10 @@
   },
   "plugins": [
     {
-      "name": "android-claude-plugin",
+      "name": "android-ai-plugin",
       "source": {
         "source": "github",
-        "repo": "pcha/android-claude-plugin"
+        "repo": "pcha/android-ai-plugin"
       },
       "description": "Skills and commands for Android development with clean architecture, ViewModels, data layer, DI, and testing."
     }

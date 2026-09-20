@@ -1,0 +1,20 @@
+{
+  "name": "pcha-plugins",
+  "interface": {
+    "displayName": "Pablo Cha Plugins"
+  },
+  "plugins": [
+    {
+      "name": "android-ai-plugin",
+      "source": {
+        "source": "local",
+        "path": "./plugins/android-ai-plugin"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

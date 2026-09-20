@@ -1,0 +1,3 @@
+[submodule "plugins/android-ai-plugin"]
+	path = plugins/android-ai-plugin
+	url = ../android-ai-plugin

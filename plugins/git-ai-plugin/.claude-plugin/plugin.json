@@ -7,8 +7,8 @@
     "name": "Pablo Cha",
     "email": "pablo.cha@pcha.dev"
   },
-  "repository": "https://github.com/pcha/plugins-marketplace",
-  "homepage": "https://github.com/pcha/plugins-marketplace/tree/main/plugins/git-ai-plugin",
+  "repository": "https://github.com/pcha/agent-plugins-marketplace",
+  "homepage": "https://github.com/pcha/agent-plugins-marketplace/tree/main/plugins/git-ai-plugin",
   "license": "MIT",
   "keywords": [
     "git",
